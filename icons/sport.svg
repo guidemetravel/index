@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47.511" height="45.5" viewBox="0 0 47.511 45.5">
+  <g id="sport" transform="translate(1 0.5)">
+    <g id="marketing-icon" transform="translate(-1 -0.5)" opacity="0.7">
+      <ellipse id="ellipse" cx="20.362" cy="19.556" rx="20.362" ry="19.556" transform="translate(1 5.389)" fill="#b0caff" stroke="#009eff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <ellipse id="ellipse-2" data-name="ellipse" cx="13.421" cy="12.889" rx="13.421" ry="12.889" transform="translate(7.942 12.056)" fill="#fff"/>
+      <ellipse id="ellipse-3" data-name="ellipse" cx="13.421" cy="12.889" rx="13.421" ry="12.889" transform="translate(7.942 12.056)" fill="#dce9ff"/>
+      <ellipse id="ellipse-4" data-name="ellipse" cx="13.421" cy="12.889" rx="13.421" ry="12.889" transform="translate(7.942 12.056)" fill="none" stroke="#009eff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <ellipse id="ellipse-5" data-name="ellipse" cx="6.479" cy="6.222" rx="6.479" ry="6.222" transform="translate(14.883 18.722)" fill="#fff" stroke="#009eff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="line" x1="18.326" y2="17.6" transform="translate(21.27 7.878)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="path" d="M46.387,8.322,42.5,8.411V4.5" transform="translate(-3.09 -0.444)" fill="none" stroke="#009eff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="path-2" data-name="path" d="M48.387,6.144,44.5,6.233V2.5" transform="translate(-3.238 -0.222)" fill="none" stroke="#009eff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="path-3" data-name="path" d="M50.387,4.056,46.5,4.144V.5" transform="translate(-3.387)" fill="none" stroke="#009eff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="path-4" data-name="path" d="M22.9,28.6" transform="translate(-1.63 -3.122)" fill="none" stroke="#5887f9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="line-2" data-name="line" x1="18.326" y2="17.6" transform="translate(21.27 7.878)" fill="none" stroke="#009eff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

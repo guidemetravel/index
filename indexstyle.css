@@ -1,0 +1,72 @@
+
+:root{
+    --lightblue:#009EFF;
+    --darkblue:#002136;
+    --white:#E4EEF3;
+
+}
+
+@font-face{
+    @font-face {
+        src: url(fonts/Pacifico/Pacifico-regular.ttf);
+        font-family: Pacifico;
+      }
+    
+      @font-face {
+        src: url(fonts/Montserrat/Montserrat-ExtraBold.ttf);
+        font-family: Monserratbold;
+      }
+    
+      @font-face {
+        src: url(fonts/Montserrat/Montserrat-Regular.ttf);
+        font-family: Monserrat;
+      }
+    
+      @font-face {
+        src: url(fonts/Montserrat/Montserrat-Medium.ttf);
+        font-family: Monserratmed;
+      }
+    
+}
+
+body{
+    background: radial-gradient(var(--lightblue), var(--darkblue));
+    min-width: 375px;
+    min-height: 812px;
+
+}
+
+.circleintro{
+    background: var(--white); 
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;; 
+    margin: auto;
+    margin-top: 50%;
+    animation: opencircle 3s ease-in-out 1s;
+   
+    
+}
+
+
+.circleintro a{
+ 
+    padding-top: 25%;
+    font-family: Pacifico;
+    font-size: 2.5em;
+    text-align: center;
+    text-decoration: none;
+    color: var(--darkblue);
+    display: block;
+    cursor: pointer;
+    
+}
+
+@keyframes opencircle{
+    0%{ opacity: 0%;
+    filter: blur(8px);}
+    100%{ opacity: 100%;
+    filter: blur(0px);}
+  }
+
+

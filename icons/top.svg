@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="17.614" viewBox="0 0 19 17.614">
+  <g id="top" transform="translate(-32 -57.793)">
+    <g id="arrow-left-icon" transform="translate(32.5 58.5)">
+      <line id="line" x1="17" transform="translate(1 8.1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="path" d="M8.6.5.5,8.6l8.1,8.1" transform="translate(-0.5 -0.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
